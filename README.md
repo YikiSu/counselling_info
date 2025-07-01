@@ -1,2 +1,2 @@
 # RUIMU COUNSELLING
-This is the resume page for clinical counsellor Zhanhong (Viola) Su.
+This is the resume page for registered clinical counsellor Zhanhong (Viola) Su.

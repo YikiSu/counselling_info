@@ -2,7 +2,7 @@
   <img src="ZONING.jpg" alt="ZHANHONG PHOTO" style="width: 240px; height: 240px; border-radius: 50%; object-fit: cover; border: 3px solid #333; margin-right: 2rem;">
   <div>
     <h1 style="margin: 0;">ZHANHONG SU</h1>
-    <p style="margin: 0.5rem 0; color: #555;">Child and Youth Mental Health Clinician</p>
+    <p style="margin: 0.5rem 0; color: #555;">Registered clinical counsellor</p>
     <p style="margin: 0; font-size: 0.9rem;">
       <a href="mailto:zhanhongsucounselling@outlook.com">zhanhongsucounselling@outlook.com</a> | 
       <a href="https://www.linkedin.com/in/viola-su-b67143166/">LinkedIn</a> 
