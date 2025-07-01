@@ -1,9 +1,6 @@
----
-layout: default
-title: ZHANHONG SU
----
+# ZHANHONG SU
 
-![Profile Photo](ZONING.jpg){:style="width:150px; border-radius:50%; border:3px solid #333; display:block; margin:0 auto"}
+![Profile Photo](ZONING.jpg)
 
 ## About Me
 
@@ -22,5 +19,5 @@ Here are some of my notable projects:
 
 ## Contact
 
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/viola-su-b67143166/)
+- Email: [zhanhongsucounselling@outlook.com](mailto:zhanhongsucounselling@outlook.com)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/viola-su-b67143166/)
