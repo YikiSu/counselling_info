@@ -1,8 +1,10 @@
+theme: jekyll-theme-minimal
 title: ZHANHONG SU
 email: zhanhongsucounselling@outlook.com
 description: RESUME
 baseurl: ""
-theme: jekyll-theme-minimal
+plugins:
+  - jekyll-optional-front-matter
 
 defaults:
   - scope:
