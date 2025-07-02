@@ -11,15 +11,53 @@
 </div>
 
 ## Professional Summary
-Experienced Interventionist with a demonstrated history of working in the individual and family services industry. Skilled in Nonprofit Organizations, Public Speaking, Bilingual Communications, Interpersonal Skills, and Time Management. Strong healthcare services professional with a Bachelor of Arts - BA focused in Psychology from The University of British Columbia.
+I'm a Registered Clinical Counsellor (RCC) committed to creating a safe, compassionate, and culturally sensitive space where you can feel seen and supported. Having lived in one culture and later immigrated to Canada, I understand the unique challenges that can come with navigating identity, change, and belonging. This lived experience has shaped my deep respect for cultural differences and the importance of honouring each person's story.</br>
 
-## Technical Skills
-- Cognitive Behavioral Therapy (CBT)
-- Dialectical Behavioral Therapy (DBT)
-- Psychological Assessment
-- Mental Health Counselling
+I believe that you are the expert of your own life, and that therapy is a collaborative journey. My role is to walk alongside you-with curiosity, empathy, and care-as we explore the thoughts, emotions, and experiences that shape your world. Whether you're navigating anxiety, low mood, life transitions, parenting stress, or the emotional challenges of everyday life, I'm here to support you with an approach that is person-centered, flexible, strength-based, and non-judgmental-always grounded in respect and tailored to your unique needs.
+
+## Areas of Practice
+- Adult Counselling
+- Anxiety
+- Attention Deficit | Hyperactivity
+- Autism
+- Child Counselling (0 to 6 yrs)
+- Child Counselling (6 to 10 yrs)
+- Child Counselling (11 to 13 yrs)
+- Depression
+- Goal-Setting
+- Individual Counselling (General)
+- Life Transitions
+- Multicultural Concerns
+- Parenting
+- Person-Centred
+- Personal Growth
+- Self Esteem
+- Stress
+- Suicidal Ideation - Teen | Tween | Child
+- Teen | Adolescent Counselling (14 - 19 yrs)
+- Trauma
+
+
+## Modalities
+- Acceptance and Commitment Therapy (ACT)
+- Anger Management
+- Applied Behavioural Analysis
+- Art Therapy
+- Brief Therapy
+- Cognitive Behavioural Therapy (CBT)
+- Dialectical Behaviour Therapy
+- Emotion-Focused Therapy
+- Integrative
+- Mindfulness-based Cognitive-behavioural Therapy
+- Motivational Interviewing
+- Narrative Therapy
+- Online Counselling
+- Person-Centred
 - Play Therapy
-- Emotion-Focused Family Therapy (EFET)
+- Sandplay
+- Strength Based
+- Telephone Counselling
+
 
 ## Professional Experience
 
@@ -34,17 +72,26 @@ Experienced Interventionist with a demonstrated history of working in the indivi
 ### Research Assistant 
 *University of Toronto - Internship* | Sep 2022 - Present 
 
-Assisting with a variety of research projects, such as quantitative and meta-analysis research. My responsibilities have included conducting literature searches, verifying references, and preparing and cleaning data using Excel. Also assisted with qualitative research including literature reviews, audio data transcription, and data coding using NVivo. Additionally, proposed and examined research questions based on related data and presented my findings using a poster presentation.
+- Assisted quantitative (meta-analysis, Excel data cleaning) and qualitative (NVivo coding, transcriptions) research.
+- Conducted literature reviews, reference verification, and data preparation.
+- Developed research questions and presented findings via poster.
 
 ### Behavior Interventionist 
 *Self-employed* | Feb 2017 - Present
 
-Implement behavior intervention programs for kids with autism using Applied Behavior Analysis techniques. The intervention program focuses on enhancing emotional regulation, social skills, problem-solving abilities, life skills, and academic learning to aid in the overall development of the children. Actively work with children and families to maintain a safe and organized environment to provide behavior intervention at home, in school, and in the community. Perform the collection of data and report writing, monitor, and review the child's progress with team members and professionals, such as Behavior consultants. Communicate with families, schools, and professionals to maintain proper and accurate behavior intervention plans for clients.
+- Implemented ABA-based behavior intervention programs for children with autism, targeting emotional regulation, social skills, problem-solving, life skills, and academics.
+- Collaborated with children, families, schools, and communities to deliver consistent support across settings.
+- Collected and analyzed data, documented progress, and adjusted plans in coordination with BCBAs and team members.
+- Maintained clear communication with families and professionals to ensure effective, individualized intervention plans.
 
 ### Foster Family Counselor
 *Family Services of Greater Vancouver* | Jan 2020 - Aug 2022
 
-Deliver support services to foster families, out-of-care caregivers, and children-in-care to promote healthy and safe placements for both parties. Support services include counseling, therapeutic, behavior support consultation, crisis intervention, trauma support, and parenting education. Assist caregivers with the development and implementation of safety plans and service plans to take better care of children-in-care. Support clients in accessing relevant resources in various domains such as victim services, financial aid applications, vocational training, legal assistance, medical services, and locally, provincially, or community-based resources. Participate in the planning and attending of the Foster Family community such as the annual Stand Together Conference and Community Kitchen to create a supportive community.
+- Provided support services to foster families, caregivers, and children-in-care to ensure safe and stable placements.
+- Delivered counseling, trauma support, crisis intervention, behavior consultation, and parenting education.
+- Assisted caregivers in developing safety plans and accessing resources (financial aid, legal/medical services, vocational training).
+- Connected clients with community, provincial, and victim support services.
+- Engaged in foster family community events (e.g., Stand Together Conference, Community Kitchen) to strengthen support networks.
 
 ## Education
 
@@ -54,6 +101,3 @@ Deliver support services to foster families, out-of-care caregivers, and childre
 ### Bachelor of Arts in Psychology  
 *The University of British Columbia* 
 
-## Certifications
-- AWS Certified Developer - Associate (2022)
-- Google Professional Data Engineer (2021)
