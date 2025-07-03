@@ -11,7 +11,7 @@
 </div>
 
 ## Professional Summary
-I'm a Registered Clinical Counsellor (RCC) committed to creating a safe, compassionate, and culturally sensitive space where you can feel seen and supported. Having lived in one culture and later immigrated to Canada, I understand the unique challenges that can come with navigating identity, change, and belonging. This lived experience has shaped my deep respect for cultural differences and the importance of honouring each person's story.</br>
+I'm a Registered Clinical Counsellor (RCC) committed to creating a safe, compassionate, and culturally sensitive space where you can feel seen and supported. Having lived in one culture and later immigrated to Canada, I understand the unique challenges that can come with navigating identity, change, and belonging. This lived experience has shaped my deep respect for cultural differences and the importance of honouring each person's story.
 
 I believe that you are the expert of your own life, and that therapy is a collaborative journey. My role is to walk alongside you-with curiosity, empathy, and care-as we explore the thoughts, emotions, and experiences that shape your world. Whether you're navigating anxiety, low mood, life transitions, parenting stress, or the emotional challenges of everyday life, I'm here to support you with an approach that is person-centered, flexible, strength-based, and non-judgmental-always grounded in respect and tailored to your unique needs.
 
