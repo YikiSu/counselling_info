@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center; margin-bottom: 2rem;">
-  <img src="bio.jpg" alt="ZHANHONG PHOTO" style="width: 240px; height: 240px; border-radius: 50%; object-fit: cover; border: 3px solid #333; margin-right: 2rem;">
+  <img src="bio.jpg" alt="ZHANHONG PHOTO" style="width: 240px; height: 240px; border-radius: 50%; object-fit: cover; border: 3px solid #333; margin-right: 1rem;">
   <div>
     <h1 style="margin: 0;">ZHANHONG SU</h1>
     <p style="margin: 0.5rem 0; color: #555;">Registered clinical counsellor</p>
