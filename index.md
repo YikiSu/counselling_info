@@ -18,7 +18,7 @@ I believe that you are the expert of your own life, and that therapy is a collab
 ## Areas of Practice
 - Adult Counselling
 - Anxiety
-- Attention Deficit | Hyperactivity
+- Attention Deficit/Hyperactivity
 - Autism
 - Child Counselling (0 to 6 yrs)
 - Child Counselling (6 to 10 yrs)
@@ -33,8 +33,8 @@ I believe that you are the expert of your own life, and that therapy is a collab
 - Personal Growth
 - Self Esteem
 - Stress
-- Suicidal Ideation - Teen | Tween | Child
-- Teen | Adolescent Counselling (14 - 19 yrs)
+- Suicidal Ideation - Teen/Tween/Child
+- Teen/Adolescent Counselling (14 - 19 yrs)
 - Trauma
 
 
