@@ -17,6 +17,31 @@ Having lived in one culture and later immigrated to Canada, I understand the uni
 
 I believe that you are the expert of your own life, and that therapy is a collaborative journey. My role is to walk alongside you with curiosity, empathy, and care as we explore the thoughts, emotions, and experiences that shape your world. Whether you're navigating anxiety, low mood, life transitions, parenting stress, or the emotional challenges of everyday life, I am here to support you with an approach that is person-centered, flexible, strength-based, and non-judgmental, always grounded in respect and tailored to your unique needs.
 
+## Areas of Practice and Modalities
+
+| Areas of Practice                          | Modalities                                      |
+|--------------------------------------------|-------------------------------------------------|
+| Adult Counselling                          | Acceptance and Commitment Therapy (ACT)        |
+| Anxiety                                    | Anger Management                                |
+| Attention Deficit/Hyperactivity            | Applied Behavioural Analysis                    |
+| Autism                                     | Art Therapy                                     |
+| Child Counselling (0 to 6 yrs)             | Brief Therapy                                   |
+| Child Counselling (6 to 10 yrs)            | Cognitive Behavioural Therapy (CBT)            |
+| Child Counselling (11 to 13 yrs)           | Dialectical Behaviour Therapy                  |
+| Depression                                 | Emotion-Focused Therapy                         |
+| Goal-Setting                               | Integrative                                     |
+| Individual Counselling (General)           | Mindfulness-based Cognitive-behavioural Therapy |
+| Life Transitions                           | Motivational Interviewing                       |
+| Multicultural Concerns                     | Narrative Therapy                               |
+| Parenting                                  | Online Counselling                              |
+| Person-Centred                             | Person-Centred                                  |
+| Personal Growth                            | Play Therapy                                    |
+| Self Esteem                                | Sandplay                                        |
+| Stress                                     | Strength Based                                  |
+| Suicidal Ideation - Teen/Tween/Child       | Telephone Counselling                           |
+| Teen/Adolescent Counselling (14 - 19 yrs)  |                                                 |
+| Trauma                                     |                                                 |
+
 ## Areas of Practice
 - Adult Counselling
 - Anxiety
