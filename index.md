@@ -64,7 +64,7 @@ I believe that you are the expert of your own life, and that therapy is a collab
 ## Professional Experience
 
 ### Child and Youth Mental Health Clinician  
-*BC Public Service* | Mar 2020 - Present  
+*BC Public Service* | Mar 2024 - Present  
 - Led individual and group therapy sessions utilizing evidence-based therapeutic approaches such as Cognitive Behavioral Therapy (CBT), Dialectical Behavior Therapy (DBT), play therapy, and sandtray therapy to foster client growth and recovery.
 - Demonstrated proficiency in using a variety of assessment tools, including the Brief Child and Family Phone Interview (BCFPI), Patient Health Questionnaire (PHQ), Generalized Anxiety Disorder scale (GAD), Beck Depression Inventory (BDI), and Screen for Child Anxiety - Related Emotional Disorders (SCARED), to accurately assess client needs and inform treatment.
 - Conducted client interviews, screened and prioritized cases based on severity and urgency, prepared thorough initial assessments, and coordinated with community agencies to connect clients with the appropriate support services.
